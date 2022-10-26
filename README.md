@@ -1,4 +1,4 @@
-# Diabetic_Retinopathy
+# Diabetic Retinopathy detection using Deep Learning models
 Automated identification and grading system of diabetic retinopathy using deep neural networks.
 Used InceptionV3, Xception and InceptionResNetV2 for DR detection and ResNet50, DenseNet169, and DenseNet201 for classification of DR level using Transfer Learning and Ensemble methods.
 
