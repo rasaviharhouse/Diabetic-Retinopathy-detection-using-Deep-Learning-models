@@ -4,6 +4,7 @@ Used InceptionV3, Xception and InceptionResNetV2 for DR detection and ResNet50, 
 
 Find the datasets here : 
 https://www.kaggle.com/c/diabetic-retinopathy-detection/data
+
 https://www.kaggle.com/tanlikesmath/diabetic-retinopathy-resized
 
 Reference:
